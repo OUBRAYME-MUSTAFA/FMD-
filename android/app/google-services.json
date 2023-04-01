@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021695134759",
+    "project_id": "singntestflutter",
+    "storage_bucket": "singntestflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021695134759:android:b11665ae7698cbe6859202",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021695134759-4607c3ecv45f2n4o2nkt444uet24q6dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLyuSfCJBot-dNZ0nBVPk1WresCaDEtDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021695134759-4607c3ecv45f2n4o2nkt444uet24q6dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
